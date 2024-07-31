@@ -117,6 +117,9 @@
   .hero-resume {
     padding: 15px 40px;
   }
+  .theme-icon {
+    right: -20px;
+  }
 }
 @media (max-width: 355px) {
   .profile-img {

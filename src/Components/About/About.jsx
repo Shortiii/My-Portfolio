@@ -18,12 +18,16 @@ const About = () => {
         <div className="about_right">
           <div className="about-para">
             <p>
-              I am a passionate Frontend Developer with over 2 years of
-              experience building responsive and user-friendly web applications.
+              I am a Frontend Developer, based in Lagos, Nigeria. Throughout my
+              career, I have worked on different projects, each contributing to
+              my growth and understanding of the web development landscape.
             </p>
             <p>
-              My journey in web development started with a love for creating
-              beautiful and functional websites
+              My journey began with a deep fascination for how websites are
+              built, which quickly evolved into a full-fledged career. I thrive
+              on solving complex problems, collaborating with talented teams,
+              and continuously learning new technologies to stay ahead in this
+              ever-evolving field.
             </p>
           </div>
         </div>
