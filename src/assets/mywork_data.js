@@ -28,8 +28,7 @@ const mywork_data = [
     w_info:
       "A task manager app built with Vue.js, featuring task organization, a personalized task list, and a streamlined workflow process.",
     w_img: project3_img,
-    w_live_mode:
-      "https://task-manager-pd9xiu8wn-oluwatoyins-projects.vercel.app/",
+    w_live_mode: "https://task-manager-app-beige.vercel.app/",
     w_github: "https://github.com/Shortiii/task-manager-app.git",
   },
   {
