@@ -9,6 +9,9 @@
   position: relative;
   align-self: center;
 }
+.hero-image img{
+  object-fit: contain;
+}
 .theme-icon {
   position: absolute;
   top: 10px;

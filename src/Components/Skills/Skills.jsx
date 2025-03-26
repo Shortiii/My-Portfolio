@@ -26,10 +26,7 @@ const Skills = () => {
           <div className="technical-skills-sections">
             <h3>Version Control</h3>
             <div className="technical-skills-section">
-              <p>Git</p> <hr style={{ width: "55%" }} />
-            </div>
-            <div className="technical-skills-section">
-              <p>GitHub</p> <hr style={{ width: "75%" }} />
+              <p>Git</p> <hr style={{ width: "75%" }} />
             </div>
           </div>
         </div>
@@ -45,6 +42,9 @@ const Skills = () => {
             </div>
             <div className="technical-skills-section">
               <p>Bootstrap</p> <hr style={{ width: "80%" }} />
+            </div>
+            <div className="technical-skills-section">
+              <p>Tailwind</p> <hr style={{ width: "60%" }} />
             </div>
           </div>
           <div className="technical-skills-sections tools">

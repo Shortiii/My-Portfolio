@@ -35,7 +35,7 @@ const Hero = () => {
         Nigeria.
       </h1>
       <p>
-        I am a dedicated and passionate frontend developer with over three years
+        I am a dedicated and passionate frontend developer with over two years
         of experience in creating visually appealing and highly functional web
         applications. I have honed my skills in HTML, CSS, JavaScript, and
         various frontend frameworks, enabling me to build responsive and
